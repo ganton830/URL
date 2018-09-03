@@ -1,0 +1,4 @@
+react developer : https://github.com/AntonioErdeljac
+
+react developer : https://github.com/michaelmang
+redux tutorial  : https://medium.com/coding-artist/practical-redux-chapter-1-core-concepts-f5a53f74505c
