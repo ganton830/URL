@@ -1,0 +1,50 @@
+   ReactNative app
+
+1.Download and install nodejs
+2 .choose an Appropriate folder for projects ,open command and type in npm install -g react-native-cli
+3.type in command prompt npm install -g yarn
+4.create new reactive nativr project with the command react-native init FirstApp
+5.To run Your Newly created project ,navigate to the project folder and type in react-native run-android
+NB:In case of any errors,Navigate to your ADB Location folder and command adb reverse tcp:8081 tcp:8081
+And Return the project.
+
+https://www.youtube.com/watch?v=v3cJwBh5e10   
+====react tutorial for react native android studio setting 
+
+www.oracle.com/technetwork/java/javase/download/jdk8-downloads-2133151.html
+
+java SE development Kit 8u66  
+---------search fom google
+developer.android.com/sdk/index.html
+
+https://facebook.github.io/react-native/docs/getting-started#content
+https://www.youtube.com/watch?v=v3cJwBh5e10
+when you install it in your pc, you have to install   android sdk  in installed android studio.
+please install it in "c://users/alexander/android/appdata/roaming/sdk"
+https://facebook.github.io/react-native/docs/android-setup.html#content , in here , please click tap (building projects with native code)
+in there , please select blue button. 
+Recommend, stand,... please select recommend.
+if you meet error for emulation, please search in this url(you have to install x86  emulater accelerate )
+//
+C:\Users\{your_user_name}\AppData\Local\Android\Sdk\extras\intel\Hardware_Accelerated_Execution_Manager\  run -> intelhaxm-android.exe
+How to add android tools dir to windows 7 path?
+
+https://ourcodeworld.com/articles/read/296/how-to-solve-android-avd-error-in-windows-x86-emulation-currently-requires-hardware-acceleration
+
+https://stackoverflow.com/questions/13285670/how-to-add-android-tools-dir-to-windows-7-path
+
+//when error is occurred after build successful , I will try it as following => success
+https://stackoverflow.com/questions/44446523/unable-to-load-script-from-assets-index-android-bundle-on-windows
+
+Select the "x86 Images" tab, then look for the Marshmallow API Level 23, x86_64 ABI image with a Android 6.0 (Google APIs) target.
+
+*****Enviroment Variable Settings****
+~ User variable for victory
+Variable name : ANDROID_SDK_HOME
+Variable path : C:\Users\victory\.android\avd
+
+Path : C:\Users\victory\AppData\Local\Android\Sdk\platform-tools
+
+~ System variables 
+Variable name : ANDROID_HOME
+Variable value : C:\Users\victory\AppData\Local\Android\Sdk
